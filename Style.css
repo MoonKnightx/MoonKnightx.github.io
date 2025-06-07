@@ -121,14 +121,17 @@
             background: #f8f9fa;
             border: 2px solid #e9ecef;
             border-radius: 8px;
-            padding: 30px;
+            padding-top: 25px;
+            padding-left: 25px;
+            padding-right: 25px;
+            padding-bottom: 0px;
             display: block;
         }
 
         .competenze-title {
             font-size: 24px;
             color: rgb(0, 95, 219);
-            margin-bottom: 25px;
+            margin-bottom: 5px;
             font-weight: bold;
         }
 
